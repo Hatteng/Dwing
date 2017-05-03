@@ -1,0 +1,12 @@
+<div class="row">
+<div class="col-md-2 hidden-xs">
+<div class="bilde"><img src="http://domene.no/eksempel/bildefil.jpg" alt="Forklarende tekst" /></div>
+</div>
+<div class="col-md-5">
+<h3><a title="For- og Etternavn" onclick="return ikbGoTarget(this);" href="http://donene.no/personens_hjemmeside.html">For- og Etternavn</a></h3>
+Tittel<br /><a href="http://domene.no/institusjonens_hjemmeside.html">Institusjonsnavn </a><br /><br /></div>
+<div class="col-md-5">
+<div style="margin-bottom: 10px;"><i class="fa fa-envelope-o fa-fw fa-2x"></i><a href="mailto:fornavn.etternavn@domene.no">fornavn.etternavn@domene.no</a></div>
+<div style="margin-bottom: 10px;"><i class="fa fa-phone fa-fw fa-2x"></i>7766554433</div>
+</div>
+</div>
